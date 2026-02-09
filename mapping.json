@@ -1,0 +1,6 @@
+{
+    "model": {
+        "tower": "Unbabel/Tower-Plus-72B",
+        "qwen": "Qwen/Qwen3-30B-A3B-Instruct-2507"
+    }
+}
